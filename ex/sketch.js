@@ -4,7 +4,5 @@ function setup() {
 }
 
 function draw() {
-	 
-	sfsdf
-  rect(50,50,50,50)
+	rect(50,50,50,50)
 }
